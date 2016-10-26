@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pas de Parametres</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main__edad">MainActivity_Edad</string>
+    <string name="mensaje_superior_nombre"></string>
+    <string name="mensaje_superior_hola">Hola </string>
+    <string name="mensaje_superior_resto">, indicanos los siguientes datos</string>
+</resources>
